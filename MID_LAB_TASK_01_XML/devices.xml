@@ -5,12 +5,14 @@
         <stock>50</stock>
         <status value="1" />
     </mobile_device>
+
     <mobile_device id="20">
         <name>HTC</name>
         <unit_price>65300</unit_price>
         <stock>35</stock>
         <status value="0" />
     </mobile_device>
+
     <mobile_device id="23">
         <name>Nokia</name>
         <unit_price>25100</unit_price>
