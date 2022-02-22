@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <form method="POST" action="../controllers/registration.php">
+    <form method="POST" action="../views/login.php">
         <table>
             <tr>
                 <td>Username</td>
